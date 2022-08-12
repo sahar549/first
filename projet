@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid white
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body >
+
+<h1 style="border:2px solid Violet;"font-family:verdana;"">Women’s clothing curated for effortless style.
+Our new store is OPEN! <br><br> </h1>
+<h1> <dd>"rebecca_shops"</dd> </h1>
+
+
+<table style="width:100%"; "height:100%">
+  <tr>
+
+    <td><img src="logo.jpeg" alt="logo" width="50" height="50">
+</td>
+<br>
+<br>
+
+
+    <th>
+<a href="file:///C:/xampp/htdocs/product%20.html">-Ours products</a> <br>
+<a href="file:///C:/xampp/htdocs/contact.html">- Ours contacts </a> <br>
+
+</th>
+  </tr>
+  <tr >
+    <td colspan="3"><img src="produit1.jpeg" alt="model" width="100%" height="333"> </td>
+    
+  </tr>
+  <tr colspan="2">
+    <td>
+<h2 style="border:2px solid DodgerBlue;"> about us </h2>
+<p >
+<pre style="
+color:DodgerBlue;">
+1.we source and collect the used clothes raw material all over tunisia;
+2.We sift through all the raw materials of used clothes one by one;
+3.we will disinfect and screen the used clothes raw materials;
+4.we sort the used clothes according to styles and colors and sizes;
+5.the quality control department will inspect all the used clothes after sorting;
+6.the workers carry out professional packing after quality inspection for the used clothes;
+7.we will arrange random re-inspection after the used clothes bales packed;
+8.after all process finished the used clothes will be placed in warehouse for container loading;
+9.we have professional teams and experienced workers and adequate equipments to fulfill customers requirements in used clothes business and lines;
+</pre></p></td>
+  
+    <td><img src="fashion.jpeg" alt="Trulli" width="200" height="300"> 
+<br>
+<br>
+<br>
+
+ </td>
+
+  </tr>
+<tr>
+<td></td>
+<td > <p><strong> welcome everybody 
+</strong></p> </td>
+<td></td>
+
+
+</table>
+</body>
+</html>
